@@ -26,8 +26,7 @@
 			<p>
 				<u><b><h2>Developers Info:</h2><b></u>
 			</p>
-			<h3>Rajesh Munuma, ID : 700645476 </br>Responsible For : HTML, CSS, SQL QUERIES, PHP VALIDATION<br/><br/>Shivaji Simhadhri, ID : 700648290 <br/>Responsible For: HTML, CSS, SQL QUERIES, PHP VALIDATION<br/><br/>Sai Varun Saini, ID : 700657183 <br/> Responsible For : PHP, DOM, JAVASCRIPT</h3>
-			<h2 style='color:red;'>Thank You !</h2>
+					<h3>Sai krishna reddy, ID : 700657837</h3>
 		</div>
 	</body>
 </html>
